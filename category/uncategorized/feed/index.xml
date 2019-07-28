@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Uncategorized &#8211; hotel booking website</title>
+	<atom:link href="http://localhost/hotelbookingsite/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>https://pmwita.github.io/hotelbookingsite</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 31 Jul 2018 21:04:19 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.7</generator>
+	<item>
+		<title>Rooftop Yoga</title>
+		<link>https://pmwita.github.io/hotelbookingsite/rooftop-yoga/</link>
+		<comments>https://pmwita.github.io/hotelbookingsite/rooftop-yoga/#respond</comments>
+		<pubDate>Tue, 31 Jul 2018 14:42:13 +0000</pubDate>
+		<dc:creator><![CDATA[peter]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">https://pmwita.github.io/hotelbookingsite/?p=68</guid>
+		<description><![CDATA[Start your day with Rooftop Vinyasa Yoga classes from Master Yoga. Free to guests or a special summer rate of $10 drop-in fee for locals. Complementary infused water and towels included. All levels welcome!]]></description>
+				<content:encoded><![CDATA[<p>Start your day with Rooftop Vinyasa Yoga classes from Master Yoga. Free to guests or a special summer rate of $10 drop-in fee for locals. Complementary infused water and towels included. All levels welcome!</p>
+]]></content:encoded>
+			<wfw:commentRss>https://pmwita.github.io/hotelbookingsite/rooftop-yoga/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Hello world!</title>
+		<link>https://pmwita.github.io/hotelbookingsite/hello-world/</link>
+		<comments>https://pmwita.github.io/hotelbookingsite/hello-world/#comments</comments>
+		<pubDate>Tue, 31 Jul 2018 07:01:41 +0000</pubDate>
+		<dc:creator><![CDATA[peter]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">https://pmwita.github.io/hotelbookingsite/?p=1</guid>
+		<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+				<content:encoded><![CDATA[<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+]]></content:encoded>
+			<wfw:commentRss>https://pmwita.github.io/hotelbookingsite/hello-world/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>
